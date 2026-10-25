@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a3d62,70:1a1a2e,100:16213e&height=220&section=header&text=Sankalp%20Gaidhane&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=✦%20Frontend%20Developer%20%7C%20Chess%20Enthusiast%20✦&descAlignY=58&descColor=8b949e&descSize=18" alt="Sankalp Gaidhane Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a3d62,70:1a1a2e,100:16213e&height=220&section=header&text=Sankalp%20Gaidhane&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=✦%20Frontend%20Developer%20%7C%20AI%20Builder%20%7C%20Chess%20Enthusiast%20✦&descAlignY=58&descColor=8b949e&descSize=18" alt="Sankalp Gaidhane Banner" />
 
 <!-- Dynamic Typing Subtitle -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Hey+there!+I'm+Sankalp+%F0%9F%91%8B;Crafting+modern+web+interfaces+%F0%9F%8E%A8;Learning+React+%26+Node.js+%F0%9F%9A%80;Chess+Player+%26+Code+Lover+%E2%99%9F%EF%B8%8F;Building+the+web%2C+one+commit+at+a+time+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Hey+there!+I'm+Sankalp+%F0%9F%91%8B;Crafting+modern+web+interfaces+%F0%9F%8E%A8;Building+AI+%26+Fullstack+Solutions+%F0%9F%A4%96;Learning+React%2C+Node.js+%26+Next.js+%F0%9F%9A%80;Competitive+Chess+Player+%E2%99%9F%EF%B8%8F;Building+the+web%2C+one+commit+at+a+time+%F0%9F%92%BB" alt="Typing SVG" />
 
 <br/>
 
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/github/followers/sankalpgaidhane77-star?label=%F0%9F%A4%9D+Followers&style=for-the-badge&color=238636&labelColor=1a1a2e" alt="Followers" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Focus-Frontend_Dev-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Focus" />
+<img src="https://img.shields.io/badge/Focus-Frontend_%26_Fullstack-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Focus" />
 &nbsp;
 <img src="https://img.shields.io/badge/From-India%20%F0%9F%87%AE%F0%9F%87%B3-ff6b35?style=for-the-badge&labelColor=0d1117" alt="Location" />
 
@@ -32,14 +32,51 @@
 const sankalp = {
   name:        "Sankalp Gaidhane",
   location:    "India 🇮🇳",
-  role:        "Frontend Developer",
-  currentGoal: "Mastering React.js & Fullstack MERN 🚀",
-  learning:    ["React.js ⚛️", "Node.js 🟢", "Modern UI/UX 🎨"],
+  role:        "Frontend & Fullstack Developer",
+  currentGoal: "Building impactful AI-powered web applications 🚀",
+  learning:    ["React.js ⚛️", "Node.js 🟢", "Next.js ▲", "Modern UI/UX 🎨"],
+  interests:   ["Smart Infrastructure 🏙️", "AI/ML Integrations 🤖", "Clean Architecture 🧱"],
   hobbies:     ["Competitive Chess ♟️", "Open Source 💻", "Gaming 🎮"],
   contact:     "sankalpgaidhane77@gmail.com",
   motto:       "Think 3 moves ahead in chess, and 10 lines ahead in code! 🚀"
 };
 ```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Repository |
+|:---|:---|:---:|:---:|
+| 🌊 **AquaShield AI** | AI-driven water quality monitoring platform with Random Forest ML prediction, IoT telemetry dashboards, and pollution heatmaps. | `Python` `Express.js` `IoT` `ML` | [Explore Repo ↗](https://github.com/sankalpgaidhane77-star/AquaShield-AI) |
+| 🏙️ **Smart City Pulse** | Modern smart infrastructure and citizen reporting prototype allowing public issue tracking and municipal response management. | `JavaScript` `Node.js` `Fullstack` | [Explore Repo ↗](https://github.com/sankalpgaidhane77-star/smart-city-demo) |
+| 🧠 **MindCheck** | Anonymous student mental wellness platform featuring emotional check-ins, mood tracking, and real-time AI support chatbot. | `JavaScript` `AI Chatbot` `Analytics` | [Explore Repo ↗](https://github.com/sankalpgaidhane77-star/stress-detector-) |
+| 📚 **ExamSmart AI** | Smart educational study assistant designed to streamline student revision and knowledge tracking. | `JavaScript` `Frontend` `AI Tool` | [Explore Repo ↗](https://github.com/sankalpgaidhane77-star/exam-smart-ai) |
+
+<br/>
+
+<!-- Pinned Repo Cards -->
+<a href="https://github.com/sankalpgaidhane77-star/AquaShield-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sankalpgaidhane77-star&repo=AquaShield-AI&theme=tokyonight&border_radius=10" height="120" alt="AquaShield AI" />
+</a>
+&nbsp;
+<a href="https://github.com/sankalpgaidhane77-star/smart-city-demo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sankalpgaidhane77-star&repo=smart-city-demo&theme=tokyonight&border_radius=10" height="120" alt="Smart City Demo" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/sankalpgaidhane77-star/stress-detector-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sankalpgaidhane77-star&repo=stress-detector-&theme=tokyonight&border_radius=10" height="120" alt="MindCheck" />
+</a>
+&nbsp;
+<a href="https://github.com/sankalpgaidhane77-star/exam-smart-ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sankalpgaidhane77-star&repo=exam-smart-ai&theme=tokyonight&border_radius=10" height="120" alt="ExamSmart AI" />
+</a>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
@@ -55,6 +92,7 @@ const sankalp = {
 
 ### ⚙️ Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🧠 Programming Languages
@@ -71,7 +109,13 @@ const sankalp = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Activity
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankalpgaidhane77-star&theme=tokyonight" width="95%" alt="Profile Summary Card" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sankalpgaidhane77-star&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_radius=10" height="175" alt="GitHub Stats" />
@@ -85,9 +129,20 @@ const sankalp = {
   <img src="https://streak-stats.demolab.com?user=sankalpgaidhane77-star&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff9800&currStreakLabel=58a6ff&border_radius=10" alt="GitHub Streak" />
 </div>
 
+<br/>
+
+<!-- Contribution Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sankalpgaidhane77-star/sankalpgaidhane77-star/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sankalpgaidhane77-star/sankalpgaidhane77-star/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/sankalpgaidhane77-star/sankalpgaidhane77-star/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## ♟️ Beyond Code: Chess & Strategy
+## ♟️ Beyond Code: Chess & Strategic Thinking
 
 <div align="center">
 
@@ -95,9 +150,30 @@ const sankalp = {
 
 ![Chess Player](https://img.shields.io/badge/Chess-Tactician%20%E2%99%9F%EF%B8%8F-000000?style=for-the-badge&logo=lichess&logoColor=white)
 ![Strategy](https://img.shields.io/badge/Mindset-Problem_Solving-4CAF50?style=for-the-badge)
-![Fast Learner](https://img.shields.io/badge/Always-Learning-orange?style=for-the-badge)
+![Calculation](https://img.shields.io/badge/Vision-3_Moves_Ahead-007ACC?style=for-the-badge)
+![Always Learning](https://img.shields.io/badge/Always-Learning-orange?style=for-the-badge)
 
 </div>
+
+<details>
+<summary><b>🔍 Click to reveal: How Chess makes me a better Software Engineer</b></summary>
+<br/>
+
+* 🧩 **Pattern Recognition:** Identifying tactical combinations on the board is identical to architecting reusable component patterns and data flows.
+* 🛡️ **Defensive & Resilient Thinking:** Anticipating opponent counter-play mirrors writing solid error handling, sanitizing inputs, and guarding against edge cases.
+* ⏱️ **Time Management & Prioritization:** Evaluating positions under clock pressure directly translates to sprint deadlines, debugging under pressure, and writing optimized code.
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 🎯 2026 Developer Goals
+
+- [x] Master Frontend fundamentals (**HTML5, CSS3, ES6+ JavaScript**)
+- [x] Build AI-driven fullstack projects (**AquaShield AI, MindCheck, Smart City**)
+- [ ] Deep dive into **React 19 & Next.js App Router**
+- [ ] Contribute consistently to **Open Source** repositories
+- [ ] Build and deploy production-ready fullstack SaaS applications
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
