@@ -1,23 +1,134 @@
-<h1 align="center">Hi 👋, I'm Sankalp Gaidhane</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sankalpgaidhane77-star&label=Profile%20views&color=0e75b6&style=flat" alt="sankalpgaidhane77-star" /> </p>
+<!-- Animated Header Wave Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a3d62,70:1a1a2e,100:16213e&height=220&section=header&text=Sankalp%20Gaidhane&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=✦%20Frontend%20Developer%20%7C%20Chess%20Enthusiast%20✦&descAlignY=58&descColor=8b949e&descSize=18" alt="Sankalp Gaidhane Banner" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankalpgaidhane77-star" alt="sankalpgaidhane77-star" /></a> </p>
+<!-- Dynamic Typing Subtitle -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Hey+there!+I'm+Sankalp+%F0%9F%91%8B;Crafting+modern+web+interfaces+%F0%9F%8E%A8;Learning+React+%26+Node.js+%F0%9F%9A%80;Chess+Player+%26+Code+Lover+%E2%99%9F%EF%B8%8F;Building+the+web%2C+one+commit+at+a+time+%F0%9F%92%BB" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **react js , node js**
+<br/>
 
-- 📫 How to reach me **sankalpgaidhane77@gmail.com**
+<!-- Profile Highlights Badges -->
+<a href="https://github.com/sankalpgaidhane77-star">
+  <img src="https://komarev.com/ghpvc/?username=sankalpgaidhane77-star&label=%F0%9F%91%81%EF%B8%8F+Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</a>
+&nbsp;
+<a href="https://github.com/sankalpgaidhane77-star?tab=followers">
+  <img src="https://img.shields.io/github/followers/sankalpgaidhane77-star?label=%F0%9F%A4%9D+Followers&style=for-the-badge&color=238636&labelColor=1a1a2e" alt="Followers" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Frontend_Dev-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Focus" />
+&nbsp;
+<img src="https://img.shields.io/badge/From-India%20%F0%9F%87%AE%F0%9F%87%B3-ff6b35?style=for-the-badge&labelColor=0d1117" alt="Location" />
 
-- ⚡ extra thing about me **i am a good chess player**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sankalp gaidhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankalp gaidhane" height="30" width="40" /></a>
-<a href="https://instagram.com/sankalp_gaidhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sankalp_gaidhane" height="30" width="40" /></a>
-</p>
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sankalpgaidhane77-star&show_icons=true&locale=en&layout=compact" alt="sankalpgaidhane77-star" /></p>
+```javascript
+const sankalp = {
+  name:        "Sankalp Gaidhane",
+  location:    "India 🇮🇳",
+  role:        "Frontend Developer",
+  currentGoal: "Mastering React.js & Fullstack MERN 🚀",
+  learning:    ["React.js ⚛️", "Node.js 🟢", "Modern UI/UX 🎨"],
+  hobbies:     ["Competitive Chess ♟️", "Open Source 💻", "Gaming 🎮"],
+  contact:     "sankalpgaidhane77@gmail.com",
+  motto:       "Think 3 moves ahead in chess, and 10 lines ahead in code! 🚀"
+};
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+### 🎨 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧠 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🔧 Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sankalpgaidhane77-star&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_radius=10" height="175" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sankalpgaidhane77-star&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=10&langs_count=8" height="175" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sankalpgaidhane77-star&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff9800&currStreakLabel=58a6ff&border_radius=10" alt="GitHub Streak" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## ♟️ Beyond Code: Chess & Strategy
+
+<div align="center">
+
+> *"In chess, every move counts — just like every line of clean code."*
+
+![Chess Player](https://img.shields.io/badge/Chess-Tactician%20%E2%99%9F%EF%B8%8F-000000?style=for-the-badge&logo=lichess&logoColor=white)
+![Strategy](https://img.shields.io/badge/Mindset-Problem_Solving-4CAF50?style=for-the-badge)
+![Fast Learner](https://img.shields.io/badge/Always-Learning-orange?style=for-the-badge)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 💬 Developer Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Dev Quote" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/sankalp-gaidhane" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://instagram.com/sankalp_gaidhane" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+&nbsp;
+<a href="mailto:sankalpgaidhane77@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,30:1a1a2e,70:0a3d62,100:0d1117&height=140&section=footer&text=Thanks%20for%20stopping%20by!%20%E2%AD%90%20Let's%20build%20something%20great&fontSize=20&fontColor=58a6ff&animation=twinkling&fontAlignY=65" alt="Footer Banner" />
+</div>
